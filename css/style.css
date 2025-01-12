@@ -1,0 +1,398 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+    margin: 5px;
+    padding: 10px;
+;
+}
+
+.navhead{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.navbar{color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0%;
+    text-align: left;}
+
+    .btn{
+        color: rgb(0, 106, 80);
+font-family: Fira Sans;
+font-size: 15px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: center;
+width: 80px;
+height: 40px;
+padding: 2px 2px 2px 2px;
+border: 1px solid rgb(0, 106, 80);
+border-radius: 5px 5px 5px 5px;
+
+    }
+    #emni{list-style: none;}
+    
+.ll{color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size:15px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;}
+    .bb{color: rgb(255, 255, 255);
+        border-radius: 5px 5px 5px 5px;
+        font-family: Fira Sans;
+        font-size: 15px;
+        font-weight: 120px;
+        line-height: 25px;
+        letter-spacing: 10%;
+        text-align: left;
+       border-style: none;
+        padding: 5px 5px 5px 5px;
+
+background: rgb(0, 106, 80);
+        }
+        .mm{color: rgba(14, 14, 14, 0.5);
+            font-family: Fira Sans;
+            font-size: 19px;
+            font-weight: 500;
+            line-height: 2%;
+            letter-spacing: 10%;
+            text-align: left;}
+
+    .container2{border-radius: 24px;
+
+        background: rgb(198, 228, 214);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+    }
+
+.photo-container{display: flex;
+    justify-content:flex-end;
+    width: auto;
+    position: relative;
+ }
+    .photo-container img{
+        max-width: 100%;
+        height: auto;
+        padding: 30px;
+
+    }
+    .pillar{color: rgb(14, 14, 14);
+        font-family: Fira Sans;
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 48px;
+        letter-spacing: 0%;
+        text-align: left;}
+
+        .kk{
+            display: flex;
+            justify-content: space-between;
+            align-items: center; 
+
+            padding: 20px;
+        }
+        
+         .card-box .kk div { 
+            border: 1px solid rgb(198, 228, 214);
+            border-radius: 20px 20px 20px 20px;
+            display: flex;
+            flex-direction: column; 
+            align-items: center;
+            margin: 10px; 
+        }
+        
+        .card-box .kk img {
+            max-width: 100px;
+            height: auto;
+        }
+        
+        .card-box .kk span {
+            margin-top: 10px;
+            font-family: Fira Sans;
+            font-size: 15px;
+            font-weight: 600;
+            text-align: center;
+        } 
+.card-box 
+    {color: rgb(14, 14, 14);
+        font-family: Fira Sans;
+        font-size:10px;
+        font-weight: 700;
+       
+        text-align: left;
+
+}
+.jj{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.uu{box-sizing: border-box;
+    border-radius: 16px;
+    
+    background: rgba(84, 144, 245, 0.2);}
+    .gg{box-sizing: border-box;
+        border-radius: 16px;
+        
+        background: rgb(198, 228, 214);}
+        .dd{box-sizing: border-box;
+            border-radius: 16px;
+            
+            background: rgb(247, 235, 207);}
+
+            .hh{border-radius: 8px;
+border: none;
+color: rgb(255, 255, 255);
+                background: rgb(84, 144, 245);}
+
+                .ff{border-radius: 8px;
+                    border: none;
+                    color: rgb(255, 255, 255);
+                                    background: rgb(9, 161, 92);}
+                                .yy{border-radius: 8px;
+                                    border: none;
+                                    color: rgb(255, 255, 255);
+                                                    background: rgb(255, 194, 57);}
+
+                                                    .ee{color: rgba(14, 14, 14, 0.6);
+                                                        font-family: Fira Sans;
+                                                        font-size: 16px;
+                                                        font-weight: 400;
+                                                        line-height: 24px;
+                                                        letter-spacing: 0%;
+                                                        text-align: left;}
+                                                        .pp{color: rgba(14, 14, 14, 0.8);
+                                                            font-family: Fira Sans;
+                                                            font-size: 20px;
+                                                            font-weight: 600;
+                                                            line-height: 24px;
+                                                            letter-spacing: 0%;
+                                                            text-align: left;}
+                                                            .ww{color: rgba(14, 14, 14, 0.8);
+                                                                font-family: Fira Sans;
+                                                                font-size: 16px;
+                                                                font-weight: 400;
+                                                                line-height: 24px;
+                                                                letter-spacing: 0%;
+                                                                text-align: left;}
+                                                                .j11{box-sizing: border-box;
+                                                                    border: 1px solid rgba(14, 14, 14, 0.15);
+                                                                    border-radius: 16px;
+                                                                    
+                                                                    background: rgb(255, 255, 255);}
+                                                                    .qq9{  text-align: center; }
+                                                                        .btn10{padding: 17px 34px 17px 34px;
+                                                                            color: rgb(255, 255, 255);
+                                                                            font-family: Fira Sans;
+                                                                            font-size: 18px;
+                                                                            font-weight: 600;
+                                                                            line-height: 22px;
+                                                                            letter-spacing: 0%;
+                                                                            text-align: left;
+           
+                                                                            box-sizing: border-box;
+                                                                            border: 1px solid rgba(14, 14, 14, 0.1);
+                                                                            border-radius: 8px;
+                                                                            
+                                                                            background: rgb(0, 106, 80);                                                           
+                                                                      }
+
+                                                                
+                                                                        .t1{box-sizing: border-box;
+                                                                            border: 1px solid rgba(14, 14, 14, 0.15);
+                                                                            border-radius: 16px;
+                                                                    
+                                                                            
+                                                                         background: rgb(255, 255, 255);
+                                                                        
+                                                                         /* Frame 2087325513 */
+position: static;
+width: 240px;
+height: 128px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 24;
+padding: 40px;
+
+
+/* Inside Auto Layout */
+
+margin: 0px 24px;
+color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+justify-content: center;
+letter-spacing: 0%;
+
+                }
+                                                                            .t2{box-sizing: border-box;
+                                                                                border: 1px solid rgba(14, 14, 14, 0.15);
+                                                                                border-radius: 16px;
+                                                                                
+                                                                                background: rgb(198, 228, 214);
+                                                                                /* Frame 2087325515 */
+position: static;
+width: 252px;
+height: 128px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 24;
+padding: 40px;
+
+
+/* Inside Auto Layout */
+margin: 0px 24px;
+color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+justify-content: center;
+letter-spacing: 0%;
+                                                                            }
+                                                                                .t3{box-sizing: border-box;
+                                                                                    border: 1px solid rgba(14, 14, 14, 0.15);
+                                                                                    border-radius: 16px;
+                                                                                    
+                                                                                    background: rgb(255, 255, 255);
+                                                                                /* Frame 2087325496 */
+position: static;
+width: 243px;
+height: 128px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 24;
+padding: 40px;
+
+
+/* Inside Auto Layout */
+margin: 0px 24px;
+color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+justify-content: center;
+letter-spacing: 0%;}
+                                                                                    .t4{box-sizing: border-box;
+                                                                                        border: 1px solid rgba(14, 14, 14, 0.15);
+                                                                                        border-radius: 16px;
+                                                                                        
+                                                                                        background: rgb(255, 255, 255);
+                                                                                    /* Frame 2087325514 */
+position: static;
+width: 264px;
+height: 128px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 24;
+padding: 40px;
+
+
+/* Inside Auto Layout */
+margin: 0px 24px;
+color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+justify-content: center;
+letter-spacing: 0%;}
+                                                                                        .y1{color: rgba(14, 14, 14, 0.7);
+                                                                                            font-family: Fira Sans;
+                                                                                            font-size: 16px;
+                                                                                            font-weight: 400;
+                                                                                            line-height: 24px;
+                                                                                            letter-spacing: 0%;
+                                                                                            text-align: center;}
+                                                                                            .p1{color: rgb(14, 14, 14);
+                                                                                                font-family: Fira Sans;
+                                                                                                font-size: 40px;
+                                                                                                font-weight: 700;
+                                                                                                line-height: 48px;
+                                                                                                letter-spacing: 0%;
+                                                                                                text-align: center;}
+  .r1{display: flex;}                     
+  .q1{box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    background: rgb(255, 255, 255);
+width: 100%;
+height: auto;
+}    
+    .dew> ::placeholder{color: rgba(14, 14, 14, 0.3);
+        font-family: Fira Sans;
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0%;
+        text-align: center;
+        
+       }         
+        .a1{color: rgba(14, 14, 14, 0.7);
+            font-family: Fira Sans;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0%;
+            text-align: left;}    
+            .b1{color: rgb(14, 14, 14);
+                font-family: Fira Sans;
+                font-size: 40px;
+                font-weight: 700;
+                line-height: 48px;
+                letter-spacing: 0%;
+                text-align: left;}       
+                
+                
+                .c1{border-radius: 24px;
+
+                    background: url(image);}
+                .d1{background: rgb(255, 255, 255);
+                    border: 1px solid rgba(14, 14, 14, 0.15);
+                    border-radius: 24px;
+                    padding: 10px;
+                    display: flex;
+                   justify-content: start;
+                    align-items: center;
+                    margin: 10px;
+                    width:100%;
+                   box-sizing: border-box;}
+              
+               .v1{color: rgba(14, 14, 14, 0.7);
+                font-family: Fira Sans;
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 20px;
+                letter-spacing: 0%;
+               text-align: left;
+                width: 744px;
+                height: auto;
+                border: none;
+            }
+            .e1{text-align: start;}
+        
+            
