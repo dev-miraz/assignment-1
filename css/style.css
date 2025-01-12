@@ -440,13 +440,58 @@ height: auto;
                                 background: rgb(198, 228, 214);}
                                 .gonow{border-radius: 8px 0px 0px 8px;
 
-                                    background: rgb(255, 255, 255);}
+                                    background: rgb(255, 255, 255);
+                                border: none;
+                                width: 100%;
+                            box-sizing:border-box;}
                                     .gonow1{border-radius: 0px 8px 8px 0px;
-
-                                        background: rgb(0, 106, 80);}
+                                        color: rgb(255, 255, 255);
+                                              
+                                        background: rgb(0, 106, 80);
+                                        border: none;
+                                        width:max-content;
+                                    display: flex;
+                                    text-align: center;
+                                    padding: 10px 20px;
+                                    box-sizing: border-box;
+                                    cursor: pointer;
+                                
+                                    }
                                         .gonow2{display: flex;
                                             text-align: center;
                                             width: 600px;
                                         height: auto;}
-        
+        .kigo{color: rgba(14, 14, 14, 0.7);
+            font-family: Fira Sans;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 19px;
+            letter-spacing: 0%;
+            text-align: center;}
+
+            .challenges{color: rgb(14, 14, 14);
+                font-family: Fira Sans;
+                font-size: 40px;
+                font-weight: 700;
+                line-height: 48px;
+                letter-spacing: 0%;
+                text-align: left;}
+
+                .c4{border-radius: 24px;
+
+                    background: url(image);
+                    
+                }
+                .jj1{
+                    background: rgb(255, 255, 255);
+                    border: 1px solid rgba(14, 14, 14, 0.15);
+                    border-radius: 24px;
+                    padding: 10px;
+                    display: flex;
+                   justify-content:start;
+                    align-items: center;
+                    margin: 10px;
+                    width:100%;
+                   box-sizing: border-box;
+                }
             
