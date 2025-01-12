@@ -389,10 +389,64 @@ height: auto;
                 line-height: 20px;
                 letter-spacing: 0%;
                text-align: left;
-                width: 744px;
+                width: 500px;
                 height: auto;
                 border: none;
             }
             .e1{text-align: start;}
+            .tym{color: rgba(14, 14, 14, 0.7);
+                font-family: Fira Sans;
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 24px;
+                letter-spacing: 0%;
+                text-align: left;}
+                .satelite1{color: rgba(14, 14, 14, 0.8);
+                    font-family: Fira Sans;
+                    font-size: 32px;
+                    font-weight: 700;
+                    line-height: 38px;
+                    letter-spacing: 0%;
+                    text-align: left;}
+                    .no1{border-radius: 8px;
+
+                        background: rgb(0, 106, 80);
+                    border: none;
+                    color: rgb(255, 255, 255);
+                    font-family: Fira Sans;
+                    font-size: 10px;
+                    font-weight: 600;
+                    line-height: 22px;
+                    letter-spacing: 0%;
+                    text-align: left;}
+
+                    .lastone{color: rgb(14, 14, 14);
+                        font-family: Fira Sans;
+                        font-size: 40px;
+                        font-weight: 700;
+                        line-height: 48px;
+                        letter-spacing: 0%;
+                        text-align: center;}
+
+                        .lastone2{color: rgba(14, 14, 14, 0.7);
+                            font-family: Fira Sans;
+                            font-size: 16px;
+                            font-weight: 400;
+                            line-height: 24px;
+                            letter-spacing: 0%;
+                            text-align: center;}
+                            .lastbox{border-radius: 24px;
+
+                                background: rgb(198, 228, 214);}
+                                .gonow{border-radius: 8px 0px 0px 8px;
+
+                                    background: rgb(255, 255, 255);}
+                                    .gonow1{border-radius: 0px 8px 8px 0px;
+
+                                        background: rgb(0, 106, 80);}
+                                        .gonow2{display: flex;
+                                            text-align: center;
+                                            width: 600px;
+                                        height: auto;}
         
             
